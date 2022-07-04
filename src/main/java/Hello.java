@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("hello git form hotfix");
         System.out.println("i love wx");
         System.out.println("i love xcc");
+        System.out.println("hello from github");
     }
 }
