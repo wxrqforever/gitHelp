@@ -1,0 +1,5 @@
+1)确保git的配置
+    setting-versionControl-git
+2)初始化本地库
+    VCS -create repository
+3)测试git add git commit 版本切换 分支切换
